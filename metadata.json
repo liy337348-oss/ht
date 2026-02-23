@@ -1,0 +1,5 @@
+{
+  "name": "华天狂野8点",
+  "description": "一款经典的狂野8点纸牌游戏，由 React 和 Tailwind CSS 构建。与 AI 对战，匹配花色或点数，并使用万能的 8 来改变战局！",
+  "requestFramePermissions": []
+}
